@@ -1,0 +1,29 @@
+#image-container {
+  display: grid;
+  margin: 2rem 0 2rem 0;
+  grid-column-gap: 0.6rem;
+}
+
+@media (min-width: 200px){
+  #image-container {
+      grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 600px){
+  #image-container {
+      grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 1200px){
+  #image-container {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 1500px){
+  #image-container {
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+}
