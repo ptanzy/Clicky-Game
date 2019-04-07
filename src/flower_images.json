@@ -1,101 +1,101 @@
 [
   {
     "id": 1,
-    "image": "../assets/images/1.png",
+    "image": "../assets/images/img1.png",
     "color": "grey lighten-1"
   },
   {
     "id": 2,
-    "image": "../assets/images/2.png",
+    "image": "../assets/images/img2.png",
     "color": "purple accent-1"
   },
   {
     "id": 3,
-    "image": "../assets/images/3.png",
+    "image": "../assets/images/img3.png",
     "color": "orange lighten-2"
   },
   {
     "id": 4,
-    "image": "../assets/images/4.png",
+    "image": "../assets/images/img4.png",
     "color": " pink lighten-2"
   },
   {
     "id": 5,
-    "image": "../assets/images/5.png",
+    "image": "../assets/images/img5.png",
     "color": "deep-purple lighten-3"
   },
   {
     "id": 6,
-    "image": "../assets/images/6.png",
+    "image": "../assets/images/img6.png",
     "color": "pink lighten-3"
   },
   {
     "id": 7,
-    "image": "../assets/images/7.png",
+    "image": "../assets/images/img7.png",
     "color": "blue lighten-4"
   },
   {
     "id": 8,
-    "image": "../assets/images/8.png",
+    "image": "../assets/images/img8.png",
     "color": "yellow accent-3"
   },
   {
     "id": 9,
-    "image": "../assets/images/9.png",
+    "image": "../assets/images/img9.png",
     "color": "light-blue accent-1"
   },
   {
     "id": 10,
-    "image": "./assets/images/10.png",
+    "image": "./assets/images/img10.png",
     "color": "amber accent-2"
   },
   {
     "id": 11,
-    "image": "./assets/images/11.png",
+    "image": "./assets/images/img11.png",
     "color": "pink accent-2"
   },
   {
     "id": 12,
-    "image": "./assets/images/12.png",
+    "image": "./assets/images/img12.png",
     "color": "indigo accent-2"
   },
   {
     "id": 13,
-    "image": "./assets/images/13.png",
+    "image": "./assets/images/img13.png",
     "color": "yellow lighten-3"
   },
   {
     "id": 14,
-    "image": "./assets/images/14.png",
+    "image": "./assets/images/img14.png",
     "color": "light-blue lighten-4"
   },
   {
     "id": 15,
-    "image": "./assets/images/15.png",
+    "image": "./assets/images/img15.png",
     "color": "yellow"
   },  {
     "id": 16,
-    "image": "./assets/images/16.png",
+    "image": "./assets/images/img16.png",
     "color": "deep-purple lighten-3"
   },
   {
     "id": 17,
-    "image": "./assets/images/17.png",
+    "image": "./assets/images/img17.png",
     "color": "red lighten-4"
   },
   {
     "id": 18,
-    "image": "./assets/images/18.png",
+    "image": "./assets/images/img18.png",
     "color": "purple lighten-2"
   },
   {
     "id": 19,
-    "image": "./assets/images/19.png",
+    "image": "./assets/images/img19.png",
     "color": "grey lighten-2"
   },
   {
     "id": 20,
-    "image": "./assets/images/20.png",
+    "image": "./assets/images/img20.png",
     "color": "grey lighten-3"
   }
 ]
